@@ -12,7 +12,7 @@ Document: https://indentier.github.io/
 
 <div align=center>
 
-<a href="https://github.com/otoneko1102/purus">
+<a href="https://github.com/indentier/indentier">
   <img src="./images/pin.svg" width="600" alt="Readme Card">
 </a>
 
